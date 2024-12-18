@@ -1,5 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-
+## Name: Venkata Mohan N
+## Reg no:24900969
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
